@@ -49,3 +49,4 @@ Installing Mocha npm install -g mocha
 describe - describe what th
 it - describe scenarios you are testing
 assert - check if the value you get are true or false
+*/
